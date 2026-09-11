@@ -1,0 +1,9 @@
+.divs{
+    height: 200px;
+    width: 200px;
+    justify-content: center;
+    background-color: aqua;
+    display: flex;
+    margin: 10%;
+    align-items: center;
+}
